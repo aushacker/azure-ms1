@@ -1,0 +1,23 @@
+{
+  "name": "azure-ms1",
+  "version": "1.0.0",
+  "description": "Sample Node microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aushacker/azure-ms1.git"
+  },
+  "author": "Aushacker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aushacker/azure-ms1/issues"
+  },
+  "homepage": "https://github.com/aushacker/azure-ms1#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
